@@ -18,4 +18,4 @@ DSA questions covering the following topics:-
 14. Dynamic Programming 
 15. Bit Manipulation
 
-Work in progress xD
+Work in progress, xD
